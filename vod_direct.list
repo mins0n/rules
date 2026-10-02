@@ -1,18 +1,23 @@
 #https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_direct.list
 
 # > CartoonPorno - Main & Fallback Domains (DIRECT)
-DOMAIN-SUFFIX,cartoonporno.cc,DIRECT
-DOMAIN-SUFFIX,cartoonporno.xxx,DIRECT
-DOMAIN-SUFFIX,x99dh.com,DIRECT
-DOMAIN-SUFFIX,x99dh.vip,DIRECT
-DOMAIN-SUFFIX,x99dh.my,DIRECT
-DOMAIN-SUFFIX,x99dh.cc,DIRECT
-DOMAIN-SUFFIX,x99dh.one,DIRECT
-
+DOMAIN-SUFFIX,cartoonporno.cc
+DOMAIN-SUFFIX,cartoonporno.xxx
+DOMAIN-SUFFIX,x99dh.com
+DOMAIN-SUFFIX,x99dh.vip
+DOMAIN-SUFFIX,x99dh.my
+DOMAIN-SUFFIX,x99dh.cc
+DOMAIN-SUFFIX,x99dh.one
 # > CartoonPorno - Media & Picture CDN (DIRECT)
-DOMAIN-SUFFIX,71352.men,DIRECT
-DOMAIN,vcdn1.cartoonporno.cc,DIRECT
-DOMAIN,cdn-pic.cartoonporno.cc,DIRECT
+DOMAIN-SUFFIX,71352.men
+DOMAIN,vcdn1.cartoonporno.cc
+DOMAIN,cdn-pic.cartoonporno.cc
+
+# > 七猫短剧 & 媒体CDN直连分流
+DOMAIN-SUFFIX,bedfpk.cn
+DOMAIN-SUFFIX,7maoduanju.com
+DOMAIN,7cat-media.bedfpk.cn
+DOMAIN,7cat-pic.bedfpk.cn
 
 DOMAIN-SUFFIX,1.xiu5408xiu.cc
 DOMAIN-SUFFIX,1.xiu5556xiu.cc
