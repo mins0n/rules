@@ -1,4 +1,9 @@
-#https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_direct.list
+# 来自 https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_direct.list
+
+# missav媒体切片与图床走本地直连
+DOMAIN-SUFFIX,surrit.com
+DOMAIN-SUFFIX,sixyik.com
+DOMAIN-SUFFIX,fourhoi.com
 
 # > CartoonPorno - Main & Fallback Domains (DIRECT)
 DOMAIN-SUFFIX,cartoonporno.cc
