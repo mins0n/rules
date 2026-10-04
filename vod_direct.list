@@ -6,6 +6,10 @@ DOMAIN,tv.fushengr.cc
 # 官方备用发布页
 DOMAIN-SUFFIX,madou2025.com
 DOMAIN-SUFFIX,kpw2026.com
+# 核心流媒体与图床 CDN
+DOMAIN,d32bg2g0w9aqg4.cloudfront.net
+DOMAIN-SUFFIX,tjacq.com
+DOMAIN,vsdsq.tjacq.com
 
 # missav媒体切片与图床走本地直连
 DOMAIN-SUFFIX,surrit.com
