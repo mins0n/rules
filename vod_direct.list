@@ -12,8 +12,8 @@ DOMAIN-SUFFIX,tjacq.com
 DOMAIN,vsdsq.tjacq.com
 
 # missav媒体切片与图床走本地直连
-# DOMAIN-SUFFIX,surrit.com
-# DOMAIN-SUFFIX,sixyik.com
+DOMAIN-SUFFIX,surrit.com
+DOMAIN-SUFFIX,sixyik.com
 # DOMAIN-SUFFIX,fourhoi.com
 
 # > CartoonPorno - Main & Fallback Domains (DIRECT)
