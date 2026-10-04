@@ -1,5 +1,12 @@
 # 来自 https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_direct.list
 
+# 浮生影视业务主站与动态域名
+DOMAIN-SUFFIX,fushengr.cc
+DOMAIN,tv.fushengr.cc
+# 官方备用发布页
+DOMAIN-SUFFIX,madou2025.com
+DOMAIN-SUFFIX,kpw2026.com
+
 # missav媒体切片与图床走本地直连
 DOMAIN-SUFFIX,surrit.com
 DOMAIN-SUFFIX,sixyik.com
