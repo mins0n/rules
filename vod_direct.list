@@ -22,6 +22,22 @@ DOMAIN-SUFFIX,uzdm.616222.xyz
 
 # 【蝴蝶影视】↓↓↓
 
+# 暗夜蜜桃 (honeypeach.cc) 直连规则集 (DIRECT)
+# 主站与 API 网关
+DOMAIN-SUFFIX,honeypeach.cc
+DOMAIN-SUFFIX,golds1.top
+IP-CIDR,45.200.14.213/32,no-resolve
+# 正片与图片分发 CDN
+DOMAIN-SUFFIX,cloudfront.net
+# 动漫上游流媒体 (Hanime / HS日本4K动漫)
+DOMAIN,vdownload.hembed.com
+DOMAIN-SUFFIX,hembed.com
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,hstream.moe
+# 视频与直播上游节点
+# DOMAIN-KEYWORD,missav
+DOMAIN-KEYWORD,stripchat
+
 # 浮生影视业务主站与动态域名
 DOMAIN-SUFFIX,fushengr.cc
 DOMAIN,tv.fushengr.cc
