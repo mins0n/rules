@@ -14,6 +14,9 @@ DOMAIN-KEYWORD,baofeng
 DOMAIN-KEYWORD,libvio
 
 # 弹幕
+DOMAIN-SUFFIX,danmu.iyo.us.ci
+DOMAIN-SUFFIX,danmu.qianting168.com
+DOMAIN-SUFFIX,dm.ljiaovm.com
 DOMAIN-SUFFIX,justdanmu.irisnb.com
 DOMAIN-SUFFIX,uzdm.616222.xyz
 
@@ -205,13 +208,11 @@ DOMAIN-SUFFIX,d8v8rjm9.bbmm277.sbs
 DOMAIN-SUFFIX,dajiji.sbs
 DOMAIN-SUFFIX,danbady3674328.xyz
 DOMAIN-SUFFIX,danbady4042982.buzz
-DOMAIN-SUFFIX,danmu.iyo.us.ci
 DOMAIN-SUFFIX,dbzy.tv
 DOMAIN-SUFFIX,dduotv01.top
 DOMAIN-SUFFIX,deb.sfyjs9.ink
 DOMAIN-SUFFIX,delivery.douyinpaly.com
 DOMAIN-SUFFIX,dhvideo.cc
-DOMAIN-SUFFIX,dm.ljiaovm.com
 DOMAIN-SUFFIX,dm845.com
 DOMAIN-SUFFIX,dmhyy.com
 DOMAIN-SUFFIX,dmm.jysn3.mom
