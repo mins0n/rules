@@ -37,7 +37,6 @@ IP-CIDR,45.200.14.213/32,no-resolve
 # 正片与图片分发 CDN
 DOMAIN-SUFFIX,cloudfront.net
 # 动漫上游流媒体 (Hanime / HS日本4K动漫)
-DOMAIN,vdownload.hembed.com
 DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,hstream.moe
@@ -47,14 +46,11 @@ DOMAIN-KEYWORD,stripchat
 
 # 浮生影视业务主站与动态域名
 DOMAIN-SUFFIX,fushengr.cc
-DOMAIN,tv.fushengr.cc
 # 官方备用发布页
 DOMAIN-SUFFIX,madou2025.com
 DOMAIN-SUFFIX,kpw2026.com
 # 核心流媒体与图床 CDN
-DOMAIN,d32bg2g0w9aqg4.cloudfront.net
 DOMAIN-SUFFIX,tjacq.com
-DOMAIN,vsdsq.tjacq.com
 
 # missav媒体切片与图床走本地直连
 DOMAIN-SUFFIX,surrit.com
@@ -71,14 +67,10 @@ DOMAIN-SUFFIX,x99dh.cc
 DOMAIN-SUFFIX,x99dh.one
 # > CartoonPorno - Media & Picture CDN (DIRECT)
 DOMAIN-SUFFIX,71352.men
-DOMAIN,vcdn1.cartoonporno.cc
-DOMAIN,cdn-pic.cartoonporno.cc
 
 # > 七猫短剧 & 媒体CDN直连分流
 DOMAIN-SUFFIX,bedfpk.cn
 DOMAIN-SUFFIX,7maoduanju.com
-DOMAIN,7cat-media.bedfpk.cn
-DOMAIN,7cat-pic.bedfpk.cn
 
 DOMAIN-SUFFIX,1.xiu5408xiu.cc
 DOMAIN-SUFFIX,1.xiu5556xiu.cc
@@ -96,7 +88,6 @@ DOMAIN-SUFFIX,1h5ceqq1h0.minba-abus.buzz
 DOMAIN-SUFFIX,1jpnygzply.xuniangex.buzz
 DOMAIN-SUFFIX,1w1b0w210r.sfttmodfavor.buzz
 DOMAIN-SUFFIX,20260807bb-bnm.mitaoava02.top
-DOMAIN-SUFFIX,26091309.ccctv1.top
 DOMAIN-SUFFIX,323433ssdfd.top
 DOMAIN-SUFFIX,351.dofd1fe.com
 DOMAIN-SUFFIX,3642.7rnr.com
@@ -297,7 +288,6 @@ DOMAIN-SUFFIX,iin.wckk799.vip
 DOMAIN-SUFFIX,ikt.xny6.makeup
 DOMAIN-SUFFIX,im1907.top
 DOMAIN-SUFFIX,images.weserv.nl
-DOMAIN-SUFFIX,img.javfree.com
 DOMAIN-SUFFIX,img.mfcimg.com
 DOMAIN-SUFFIX,in30.ll48host.buzz
 DOMAIN-SUFFIX,init.al.pnwkult.com
@@ -351,11 +341,9 @@ DOMAIN-SUFFIX,lzlukvca.cc
 DOMAIN-SUFFIX,m.artxyzy.com
 DOMAIN-SUFFIX,m.bilibili.com
 DOMAIN-SUFFIX,m.douyu.com
-DOMAIN-SUFFIX,m.hanju84.cc
 DOMAIN-SUFFIX,m.lrts.me
 DOMAIN-SUFFIX,m.myfreecams.com
 DOMAIN-SUFFIX,m.slwgb.com
-DOMAIN-SUFFIX,m.tangttiao.cc
 DOMAIN-SUFFIX,madou365.cc
 DOMAIN-SUFFIX,maihaolian.com
 DOMAIN-SUFFIX,main.xiquduoduo.com
@@ -427,7 +415,6 @@ DOMAIN-SUFFIX,s7t8u9v0.luwangi.cc
 DOMAIN-SUFFIX,sanl.slkanfengjing.site
 DOMAIN-SUFFIX,sdzyapi.com
 DOMAIN-SUFFIX,search.bilibili.com
-DOMAIN-SUFFIX,search.kuwo.cn
 DOMAIN-SUFFIX,search.youku.com
 DOMAIN-SUFFIX,segs.jvnmtr.cn
 DOMAIN-SUFFIX,sekihfde.com
@@ -448,7 +435,6 @@ DOMAIN-SUFFIX,super.playr.top
 DOMAIN-SUFFIX,svip.bljiex.cc
 DOMAIN-SUFFIX,svip.qlplayer.cyou
 DOMAIN-SUFFIX,sysu.bnmdquasi.cc
-DOMAIN-SUFFIX,t3g15u7s.kbbshape.buzz
 DOMAIN-SUFFIX,t66yy.cc
 DOMAIN-SUFFIX,tangttiao.cc
 DOMAIN-SUFFIX,tangxinvlog.pro
@@ -481,7 +467,6 @@ DOMAIN-SUFFIX,vostrely.com
 DOMAIN-SUFFIX,w1.rohuzsqwk.com
 DOMAIN-SUFFIX,wanwuu.github.io
 DOMAIN-SUFFIX,wanwuu.pages.dev
-DOMAIN-SUFFIX,wapi.kuwo.cn
 DOMAIN-SUFFIX,weishitv.xyz
 DOMAIN-SUFFIX,wknd.sjzstv.sbs
 DOMAIN-SUFFIX,wmtt5.com
@@ -508,7 +493,6 @@ DOMAIN-SUFFIX,www.asmrba.com
 DOMAIN-SUFFIX,www.asmrzy.top
 DOMAIN-SUFFIX,www.baidu.com
 DOMAIN-SUFFIX,www.balidwipa.com
-DOMAIN-SUFFIX,www.bdjmcc.com
 DOMAIN-SUFFIX,www.bestjavporn.com
 DOMAIN-SUFFIX,www.bilibili.com
 DOMAIN-SUFFIX,www.brovod.com
@@ -535,7 +519,6 @@ DOMAIN-SUFFIX,www.fullhd.to
 DOMAIN-SUFFIX,www.fullhd.xxx
 DOMAIN-SUFFIX,www.gg51.com
 DOMAIN-SUFFIX,www.ghgdm.com
-DOMAIN-SUFFIX,www.hanju84.cc
 DOMAIN-SUFFIX,www.hebeigoogle.com
 DOMAIN-SUFFIX,www.hongniuzy2.com
 DOMAIN-SUFFIX,www.huya.com
@@ -543,14 +526,10 @@ DOMAIN-SUFFIX,www.i275.com
 DOMAIN-SUFFIX,www.jennyhow.com
 DOMAIN-SUFFIX,www.kanxiya.com
 DOMAIN-SUFFIX,www.kuaikaw.cn
-DOMAIN-SUFFIX,www.kuwo.cn
 DOMAIN-SUFFIX,www.lovedan.net
 DOMAIN-SUFFIX,www.luanlunba.cc
 DOMAIN-SUFFIX,www.luojubj.xyz
-DOMAIN-SUFFIX,www.lust12.cc
 DOMAIN-SUFFIX,www.m4560.com
-DOMAIN-SUFFIX,www.maihaolian.com
-DOMAIN-SUFFIX,www.mdyy.cc
 DOMAIN-SUFFIX,www.mdzyapi.com
 DOMAIN-SUFFIX,www.meijutt.cc
 DOMAIN-SUFFIX,www.mgtv.com
@@ -570,10 +549,8 @@ DOMAIN-SUFFIX,www.qnmp4.com
 DOMAIN-SUFFIX,www.qyvod.com
 DOMAIN-SUFFIX,www.shanxihighway.com
 DOMAIN-SUFFIX,www.skr.cc
-DOMAIN-SUFFIX,www.skr2.cc
 DOMAIN-SUFFIX,www.sorani.net
 DOMAIN-SUFFIX,www.sypfjy.com
-DOMAIN-SUFFIX,www.uqhf6f3.vip
 DOMAIN-SUFFIX,www.viptu.com
 DOMAIN-SUFFIX,www.vnzyz.com
 DOMAIN-SUFFIX,www.vssdy.com
@@ -596,7 +573,6 @@ DOMAIN-SUFFIX,www.youku.com
 DOMAIN-SUFFIX,www.yuetingba.cn
 DOMAIN-SUFFIX,www.yxxq41.cc
 DOMAIN-SUFFIX,www.yycm6.wiki
-DOMAIN-SUFFIX,www.znys.top
 DOMAIN-SUFFIX,www.ztzssz.com
 DOMAIN-SUFFIX,www1.ikanbot.com
 DOMAIN-SUFFIX,xbffh.swwlt15.xyz
@@ -616,7 +592,6 @@ DOMAIN-SUFFIX,xn--pg3-chimei100-com-7483af92d.chimei69.com
 DOMAIN-SUFFIX,xqjurgek.top
 DOMAIN-SUFFIX,xqxq1.cc
 DOMAIN-SUFFIX,xrpm.eu.cc
-DOMAIN-SUFFIX,xsd.sdzyapi.com
 DOMAIN-SUFFIX,xts.mtyx4.beer
 DOMAIN-SUFFIX,xx01.com
 DOMAIN-SUFFIX,xxavs.com
