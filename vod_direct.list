@@ -11,7 +11,11 @@ DOMAIN-KEYWORD,bfllvip
 DOMAIN-KEYWORD,bfvp
 DOMAIN-KEYWORD,baofeng
 
+#立播
 DOMAIN-KEYWORD,libvio
+
+#木偶
+DOMAIN-SUFFIX,muoua.top
 
 # 弹幕
 DOMAIN-SUFFIX,danmu.iyo.us.ci
