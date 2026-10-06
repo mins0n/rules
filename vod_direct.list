@@ -2,7 +2,6 @@
 
 # 360资源
 DOMAIN-KEYWORD,maowushi
-
 # 暴风
 DOMAIN-KEYWORD,bfeng
 DOMAIN-KEYWORD,bfzy
@@ -10,16 +9,15 @@ DOMAIN-KEYWORD,fengbao
 DOMAIN-KEYWORD,bfllvip
 DOMAIN-KEYWORD,bfvp
 DOMAIN-KEYWORD,baofeng
-
-#立播
+# 立播
 DOMAIN-KEYWORD,libvio
 
-#聚影
+# 小黄书
+DOMAIN-SUFFIX,cdn.xchina.download
+# 聚影
 DOMAIN-SUFFIX,mjying.top
-
-#木偶
+# 木偶
 DOMAIN-SUFFIX,muoua.top
-
 # 弹幕
 DOMAIN-SUFFIX,danmu.iyo.us.ci
 DOMAIN-SUFFIX,danmu.qianting168.com
@@ -28,7 +26,6 @@ DOMAIN-SUFFIX,justdanmu.irisnb.com
 DOMAIN-SUFFIX,uzdm.616222.xyz
 
 # 【蝴蝶影视】↓↓↓
-
 # 暗夜蜜桃 (honeypeach.cc) 直连规则集 (DIRECT)
 # 主站与 API 网关
 DOMAIN-SUFFIX,honeypeach.cc
