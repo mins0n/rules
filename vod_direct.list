@@ -1,5 +1,7 @@
 # 来自 https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_direct.list
 
+DOMAIN-SUFFIX,cd-zj.com
+DOMAIN-SUFFIX,pan.vma.cc
 # 360资源
 DOMAIN-SUFFIX,360zy.com
 DOMAIN-KEYWORD,maowushi
@@ -20,9 +22,6 @@ DOMAIN-KEYWORD,play-cdn
 DOMAIN-SUFFIX,xinlangzy.net
 # 立播
 DOMAIN-KEYWORD,libvio
-
-DOMAIN-SUFFIX,cd-zj.com
-DOMAIN-SUFFIX,pan.vma.cc
 # 小黄书
 DOMAIN-SUFFIX,cdn.xchina.download
 # 聚影
