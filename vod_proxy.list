@@ -1,9 +1,12 @@
 # 来自 https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_proxy.list
 
+# 橙果短剧
+DOMAIN-SUFFIX,chengguodj.com
 # missav页面与 API 走节点代理
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,thisav.my
 
+# 蝴蝶影视↓↓↓↓↓↓↓↓↓↓↓↓
 DOMAIN-SUFFIX,06sw.4k998b.com
 DOMAIN-SUFFIX,0708.fs708.com
 DOMAIN-SUFFIX,0zq6w.shddlcd.cn
