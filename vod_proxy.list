@@ -5,6 +5,19 @@ DOMAIN-SUFFIX,chengguodj.com
 
 # 蝴蝶影视↓↓↓↓↓↓↓↓↓↓↓↓
 
+# ------玩物社区------#
+# 核心主站与 API
+DOMAIN-SUFFIX,daqbqrri.cc
+# 封面海报图床 CDN
+DOMAIN-SUFFIX,wirqed.cn
+DOMAIN-SUFFIX,eisees.com
+# 流媒体直链、切片与分发 CDN
+DOMAIN-SUFFIX,tktjpm.cn
+# 关键词兜底
+DOMAIN-KEYWORD,daqbqrri
+DOMAIN-KEYWORD,wirqed
+DOMAIN-KEYWORD,tktjpm
+
 # missav页面与 API 走节点代理
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,thisav.my
