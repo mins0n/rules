@@ -1,6 +1,8 @@
 # 来自 https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_direct.list
 
 DOMAIN-SUFFIX,cd-zj.com
+# 盘搜
+DOMAIN-SUFFIX,so.252035.xyz
 # 白云网盘
 DOMAIN-SUFFIX,pan.vma.cc
 # 万盘
