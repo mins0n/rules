@@ -3,6 +3,8 @@
 DOMAIN-SUFFIX,so.yinpai.xyz
 DOMAIN-SUFFIX,cd-zj.com
 DOMAIN-SUFFIX,pan.vma.cc
+# 夸克影院
+DOMAIN-SUFFIX,qkmov.cc
 # 在线短剧
 DOMAIN-SUFFIX,essoog.com
 # 360资源
@@ -32,6 +34,7 @@ DOMAIN-SUFFIX,mjying.top
 # 木偶
 DOMAIN-SUFFIX,muoua.top
 # 弹幕
+DOMAIN-SUFFIX,dm.920410.xyz
 DOMAIN-SUFFIX,danmu.iyo.us.ci
 DOMAIN-SUFFIX,danmu.qianting168.com
 DOMAIN-SUFFIX,dm.ljiaovm.com
