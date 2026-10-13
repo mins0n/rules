@@ -1,8 +1,10 @@
 # 来自 https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_direct.list
 
-DOMAIN-SUFFIX,so.yinpai.xyz
+
 DOMAIN-SUFFIX,cd-zj.com
 DOMAIN-SUFFIX,pan.vma.cc
+# 万盘
+DOMAIN-SUFFIX,so.yinpai.xyz
 # 夸克影院
 DOMAIN-SUFFIX,qkmov.cc
 # 在线短剧
