@@ -4,6 +4,15 @@
 DOMAIN-SUFFIX,chengguodj.com
 
 # 蝴蝶影视↓↓↓↓↓↓↓↓↓↓↓↓
+# > BadNews 爬虫与流媒体播放分流规则集
+# 主站及脚本
+DOMAIN-SUFFIX,bad.news
+# 静态封面图 CDN
+DOMAIN,img.lvv2.com
+DOMAIN,pbs.twimg.com
+DOMAIN-SUFFIX,hersav.me
+# 核心视频流分发
+DOMAIN,video.twimg.com
 
 # ------玩物社区------#
 # 核心主站与 API
