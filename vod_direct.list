@@ -1,6 +1,5 @@
 # 来自 https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_direct.list
 
-DOMAIN-SUFFIX,cd-zj.com
 # 红果短剧
 DOMAIN-SUFFIX,hongguoduanju.com
 # 盘搜
@@ -39,6 +38,8 @@ DOMAIN-SUFFIX,cdn.xchina.download
 DOMAIN-SUFFIX,mjying.top
 # 木偶
 DOMAIN-SUFFIX,muoua.top
+# 枫叶4K、茶杯狐
+DOMAIN-SUFFIX,cd-zj.com
 # 弹幕
 DOMAIN-SUFFIX,dm.920410.xyz
 DOMAIN-SUFFIX,danmu.iyo.us.ci
