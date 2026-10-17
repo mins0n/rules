@@ -54,6 +54,15 @@ DOMAIN-SUFFIX,justdanmu.irisnb.com
 DOMAIN-SUFFIX,uzdm.616222.xyz
 
 # 【蝴蝶影视】↓↓↓
+
+# 小淫虫-Tube 流媒体 M3U8 视频切片分发 CDN
+DOMAIN-SUFFIX,xbv2608.com 
+DOMAIN-SUFFIX,didibo2.com
+DOMAIN-SUFFIX,hwzcfz.com
+DOMAIN-KEYWORD,didibo
+DOMAIN-KEYWORD,xbv2608
+DOMAIN-KEYWORD,hwzcfz
+
 # 暗夜蜜桃 (honeypeach.cc) 直连规则集 (DIRECT)
 # 主站与 API 网关
 DOMAIN-SUFFIX,honeypeach.cc
