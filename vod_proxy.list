@@ -1,5 +1,6 @@
 # 来自 https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_proxy.list
 
+DOMAIN-SUFFIX,ptt.red
 # 橙果短剧
 DOMAIN-SUFFIX,chengguodj.com
 
