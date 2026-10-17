@@ -1,5 +1,24 @@
 # 来自 https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_direct.list
 
+# 360资源
+DOMAIN-SUFFIX,360zy.com
+DOMAIN-KEYWORD,maowushi
+# 暴风
+DOMAIN-KEYWORD,bfeng
+DOMAIN-KEYWORD,bfzy
+DOMAIN-KEYWORD,fengbao
+DOMAIN-KEYWORD,bfllvip
+DOMAIN-KEYWORD,bfvp
+DOMAIN-KEYWORD,baofeng
+# 采集站
+DOMAIN-KEYWORD,ryiplay
+DOMAIN-KEYWORD,ylys
+DOMAIN-KEYWORD,dytt
+DOMAIN-KEYWORD,ffzy
+DOMAIN-KEYWORD,yzzy
+DOMAIN-KEYWORD,lz
+DOMAIN-KEYWORD,play-cdn
+DOMAIN-SUFFIX,xinlangzy.net
 # 红果短剧
 DOMAIN-SUFFIX,hongguoduanju.com
 # 盘搜
@@ -12,24 +31,6 @@ DOMAIN-SUFFIX,so.yinpai.xyz
 DOMAIN-SUFFIX,qkmov.cc
 # 在线短剧
 DOMAIN-SUFFIX,essoog.com
-# 360资源
-DOMAIN-SUFFIX,360zy.com
-DOMAIN-KEYWORD,maowushi
-# 暴风
-DOMAIN-KEYWORD,bfeng
-DOMAIN-KEYWORD,bfzy
-DOMAIN-KEYWORD,fengbao
-DOMAIN-KEYWORD,bfllvip
-DOMAIN-KEYWORD,bfvp
-DOMAIN-KEYWORD,baofeng
-# 采集站
-DOMAIN-KEYWORD,ylys
-DOMAIN-KEYWORD,dytt
-DOMAIN-KEYWORD,ffzy
-DOMAIN-KEYWORD,yzzy
-DOMAIN-KEYWORD,lz
-DOMAIN-KEYWORD,play-cdn
-DOMAIN-SUFFIX,xinlangzy.net
 # 立播
 DOMAIN-KEYWORD,libvio
 # 小黄书
