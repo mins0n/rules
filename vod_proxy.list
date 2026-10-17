@@ -6,14 +6,14 @@ DOMAIN-SUFFIX,chengguodj.com
 
 # 蝴蝶影视↓↓↓↓↓↓↓↓↓↓↓↓
 
-> 小淫虫-Tube 爬虫全链路分流规则
-主站及接口
+# 小淫虫-Tube 爬虫全链路分流规则
+# 主站及接口
 DOMAIN-SUFFIX,xyc01.eu.cc
-海报与静态资源 CDN
+# 海报与静态资源 CDN
 DOMAIN-SUFFIX,xbpic261012.top
 DOMAIN-SUFFIX,uyjthen.com
 
-# > BadNews 爬虫与流媒体播放分流规则集
+# BadNews 爬虫与流媒体播放分流规则集
 # 主站及脚本
 DOMAIN-SUFFIX,bad.news
 # 静态封面图 CDN
