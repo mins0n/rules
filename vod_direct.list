@@ -1,7 +1,8 @@
 # 来自 https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_direct.list
 
 # 360资源
-DOMAIN-SUFFIX,360zy.com
+DOMAIN-KEYWORD,360zy
+DOMAIN-KEYWORD,zy360
 DOMAIN-KEYWORD,maowushi
 # 暴风
 DOMAIN-KEYWORD,bfeng
@@ -10,7 +11,9 @@ DOMAIN-KEYWORD,fengbao
 DOMAIN-KEYWORD,bfllvip
 DOMAIN-KEYWORD,bfvp
 DOMAIN-KEYWORD,baofeng
-# 采集站
+DOMAIN-KEYWORD,picbf
+# 采集站关键词
+DOMAIN-KEYWORD,wsyzy
 DOMAIN-KEYWORD,vvvip-play
 DOMAIN-KEYWORD,modujx17
 DOMAIN-KEYWORD,maoyanplay
@@ -21,8 +24,10 @@ DOMAIN-KEYWORD,dytt
 DOMAIN-KEYWORD,ffzy
 DOMAIN-KEYWORD,yzzy
 DOMAIN-KEYWORD,lz
+DOMAIN-KEYWORD,lzi
+DOMAIN-KEYWORD,liangzi
 DOMAIN-KEYWORD,play-cdn
-DOMAIN-SUFFIX,xinlangzy.net
+DOMAIN-KEYWORD,xinlangzy
 # 红果短剧
 DOMAIN-SUFFIX,hongguoduanju.com
 # 盘搜
