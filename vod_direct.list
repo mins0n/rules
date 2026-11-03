@@ -14,6 +14,9 @@ DOMAIN-KEYWORD,bfllvip
 DOMAIN-KEYWORD,bfvp
 DOMAIN-KEYWORD,baofeng
 DOMAIN-KEYWORD,picbf
+# 蓝光资源
+DOMAIN-KEYWORD,lgzy
+DOMAIN-SUFFIX,lgvideo.xyz
 # 采集站关键词
 DOMAIN-KEYWORD,wsyzy
 DOMAIN-KEYWORD,vvvip-play
