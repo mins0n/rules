@@ -1,3 +1,4 @@
+#来自：https://raw.githubusercontent.com/qichiyuhub/rule/refs/heads/main/rules/fakeipfilter-!cn.list
 #连通性探测 / 工具
 cable.auth.com
 network-test.debian.org
